@@ -1,8 +1,8 @@
-Pendulum Analysis in Python
+# Pendulum Analysis in Python
 
 This project models and analyzes a simple pendulum using both symbolic and numerical methods.
 
-🔧 Features
+## 🔧 Features
 
 - Symbolic derivation of the pendulum's equation of motion using SymPy
 - Energy conservation checks
@@ -11,7 +11,7 @@ This project models and analyzes a simple pendulum using both symbolic and numer
 - Fourier analysis of the oscillation
 - Visualizations: angle over time, phase space, and energy plots
 
-🧰 Technologies
+## 🧰 Technologies
 
 - Python
 - SymPy
